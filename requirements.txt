@@ -1,0 +1,21 @@
+# Core Object Detection
+ultralytics
+
+# Computer Vision & Image Processing
+opencv-python
+pillow
+
+# Numerical & Data Handling
+numpy
+pandas
+
+# Visualization (Optional, but helpful for graphs)
+matplotlib
+seaborn
+
+# Deep Learning Backend (Pip will resolve versioning)
+torch
+torchvision
+#pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+torchaudio --index-url https://download.pytorch.org/whl/cu124
+tqdm
